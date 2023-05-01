@@ -34,6 +34,8 @@ python notebook.ipynb
 
 ## Resultado final
 
+Nos concluimos que os principais fatores de risco para o AVC estão relacionados a hipertensão e ao tabagismo.
+
 
 ### [CSV de predição de AVCs](https://github.com/st4pzz/APS_AVC/blob/main/healthcare-dataset-stroke-data.csv)
 
