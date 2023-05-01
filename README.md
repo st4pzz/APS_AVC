@@ -6,7 +6,7 @@ Esse é um projeto da matéria de Algebra Linear e Teoria da Informação do Ins
 
 Neste projeto, projetaremos e avaliaremos o classificador linear e o classificador por árvore de decisão no problema de predizer AVCs à partir da base de dados que está disponível no Kaggle. Também, avaliaremos quais foram os fatores de risco identificados por cada um dos classificadores e, após, verificaremos se esses fatores de risco identificados pelos classificadores já foram identificados anteriormente por algum estudo na área. Para isso, vamos usar classificadores para identificar *quais são os fatores de risco para o acidente vascular cerebral (AVC)*. Um AVC (*stroke*) é um dano cerebral causado pela interrupção de seu fluxo sanguíneo. Ter um AVC é um problema sério porque pode levar a sequelas, então é melhor preveni-lo do que tentar lidar com suas consequências.
 
-
+### [CSV de predição de AVCs](https://github.com/st4pzz/APS_AVC/blob/main/healthcare-dataset-stroke-data.csv)
 
 ## Modelo matemático e Explicação
 
@@ -34,9 +34,10 @@ python notebook.ipynb
 
 ## Resultado final
 
-Nos concluimos que os principais fatores de risco para o AVC estão relacionados a hipertensão e tabagismo.
+Nos concluimos que os principais fatores de risco para o AVC estão relacionados a hipertensão e tabagismo. Além disso pesquisamos em diversos sites sendo o principla site pesquisado o do governo, e vimos que a hipertensão e tabagismo são um dos principais riscos para desenvolver um AVC.
 
-### [CSV de predição de AVCs](https://github.com/st4pzz/APS_AVC/blob/main/healthcare-dataset-stroke-data.csv)
+### [Referência do gov.br](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/avc)
+
 
 ## Autores
 
