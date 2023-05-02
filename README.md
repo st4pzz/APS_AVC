@@ -12,7 +12,11 @@ Neste projeto, projetaremos e avaliaremos o classificador linear e o classificad
 
 Primeiramente, colocamos os dados em dados teste e de treino, o modelo foi criado por meio de regressão linear, definiu-se a função de perda, a matriz de peso $p$ , que define a relevância de cada uma das características para determinar se uma pessoa teria um AVC ou não, e o valor bias, $b$, também calculamos o gradiente da função de perda. O objetivo do algoritmo é minimizar a função de perda, encontrando os valores de $p$ e $b$ que minimizem a diferença entre as previsões do modelo e os valores reais. Usamos o gradiente descendente para calcular a perda em relação a $p$ e $b$, ajustamosos parâmetros em relação ao gradiente usando a taxa de aprendizagem. O modelo, aprende a melhor combinação de valores para fazer previsões sobre os dados de entrada, utilizando da função de perda que fornece uma medida de como as previsões estão sendo feitas e dos ajustes de valores que as melhoram, assim, maximizando a precisão do modelo. 
 
-## Como rodar o projeto e Funcionalidades
+## Resultado final
+
+Nos concluimos que os principais fatores de risco para o AVC estão relacionados a hipertensão e tabagismo. Além disso, através da nossa pesquisa, utilizamos o site do governo como referência e, vimos que a hipertensão e tabagismo são um dos principais riscos para desenvolver um AVC, o que mostra que nosso resultado já era o esperado.
+
+## Como rodar o projeto e funcionalidades
 
 ### Clone o repositório do nosso projeto:
 
@@ -32,16 +36,11 @@ pip install -r requirements.txt
 python notebook.ipynb
 ```
 
-## Resultado final
-
-Nos concluimos que os principais fatores de risco para o AVC estão relacionados a hipertensão e tabagismo. Além disso, através da nossa pesquisa, utilizamos o site do governo como referência e, vimos que a hipertensão e tabagismo são um dos principais riscos para desenvolver um AVC, o que mostra que nosso resultado já era o esperado.
-
-## Fonte Bibliográfica
-
-MINISTÉRIO DA SAÚDE. Acidente Vascular Cerebral. Disponível em <https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/avc>. Acesso em 01 de Maio de 2023.
-
-
 ## Autores
 
 - [@st4pzz](https://github.com/st4pzz)
 - [@WeeeverAlex](https://github.com/WeeeverAlex)
+
+## Fonte Bibliográfica
+
+MINISTÉRIO DA SAÚDE. Acidente Vascular Cerebral. Disponível em <https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/avc>. Acesso em 01 de Maio de 2023.
