@@ -34,7 +34,7 @@ python notebook.ipynb
 
 ## Resultado final
 
-Nos concluimos que os principais fatores de risco para o AVC estão relacionados a hipertensão e tabagismo. Além disso pesquisamos em diversos sites sendo o principla site pesquisado o do governo, e vimos que a hipertensão e tabagismo são um dos principais riscos para desenvolver um AVC.
+Nos concluimos que os principais fatores de risco para o AVC estão relacionados a hipertensão e tabagismo. Além disso, através da nossa pesquisa, utilizamos o site do governo como referência e, vimos que a hipertensão e tabagismo são um dos principais riscos para desenvolver um AVC, o que mostra que nosso resultado já era o esperado.
 
 ### [Referência do gov.br](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/avc)
 
